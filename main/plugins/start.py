@@ -27,8 +27,8 @@ from pyrogram import Client, filters
 import subprocess
 
 # MONGODB_CONNECTION_STRING = "mongodb+srv://ggn:ggn@ggn.upuljx5.mongodb.net/?retryWrites=true&w=majority&appName=ggn"
-# OWNER_ID = 7065117445 # edit this
-# LOG_GROUP = -1001878947221 # edit this
+OWNER_ID = 6389388334 # edit this
+LOG_GROUP = -1001665693055 # edit this
 
 MDB = "mongodb+srv://ggn:ggn@ggn.upuljx5.mongodb.net/?retryWrites=true&w=majority&appName=ggn"
 MONGODB_CONNECTION_STRING = config("MONGODB", default=MDB)
